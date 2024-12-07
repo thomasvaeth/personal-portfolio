@@ -42,7 +42,7 @@
     "gatsby-transformer-remark": "^5.17.0",
     "gatsby-transformer-sharp": "^4.17.0",
     "gsap": "^3.10.4",
-    "node-sass": "^6.0.1",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
